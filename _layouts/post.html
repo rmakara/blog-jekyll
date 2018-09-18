@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article>
+
+	<div class="center">
+		<h1 class="title">{{ page.title }}</h1>
+		<time class="code">{{ page.date | date: '%Y-%m-%d' }}</time>
+	</div>
+
+	<div class="divider"></div>
+
+	{{ content }}
+
+</article>
+
+<div class="page-navigation code">
+	{% if page.previous.url %}
+    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">Poprzedni artykuł</a>
+		<span> &middot; </span>
+  {% endif %}
+		<a class="home" href="{{ "" | prepend: site.baseurl | prepend: site.url }}" title="Wróć na Stronę Główną">Wróć na Stronę Główną</a>
+  {% if page.next.url %}
+		<span> &middot; </span>
+    <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">Następny artykuł</a>		
+  {% endif %}
+</div>
