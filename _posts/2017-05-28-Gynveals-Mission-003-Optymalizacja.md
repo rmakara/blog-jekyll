@@ -1,5 +1,6 @@
 ---
 title: Gynveal's Mission 003&#58; Optymalizacja
+image: /assets/2017_05_28_header.jpg
 ---
 
 # Wystarczy poczekać

@@ -1,5 +1,6 @@
 ---
 title: OnEstimates. Część II&#58; Techniki estymowania
+image: /assets/2017_05_09_header.jpg
 ---
 
 Norma, czyli wszystko “na już”

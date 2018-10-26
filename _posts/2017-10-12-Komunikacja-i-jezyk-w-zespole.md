@@ -1,5 +1,7 @@
 ---
 title: Komunikacja i język w zespole
+image: /assets/2017_10_12_header.jpg
+
 ---
 
 # Programowanie pracą zespołową

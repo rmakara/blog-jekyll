@@ -1,5 +1,6 @@
 ---
 title: Książki i najlepszy prezent materialny w 2017
+image: /assets/2017_12_23_header.jpg
 ---
 
 # Powrót do czytania

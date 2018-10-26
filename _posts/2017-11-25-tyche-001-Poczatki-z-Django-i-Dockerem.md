@@ -1,5 +1,6 @@
 ---
 title: tyche 001&#58; Początki z Django i Dockerem
+image: /assets/2017_11_25_header.jpg
 ---
 
 # Programista stażysta

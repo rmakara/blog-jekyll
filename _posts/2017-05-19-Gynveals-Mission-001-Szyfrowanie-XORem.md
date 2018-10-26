@@ -1,5 +1,6 @@
 ---
 title: Gynveal's Mission 001&#58; Szyfrowanie XORem
+image: /assets/2017_05_19_header.jpg
 ---
 
 # Misje Gynvaela Coldwinda
