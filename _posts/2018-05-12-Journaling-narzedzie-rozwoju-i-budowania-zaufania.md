@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Journaling, narzędzie rozwoju i budowania zaufania
-image: /assets/2018_05_12_header.jpg
+image: /assets/20180512_header.jpg
 description: Czego możemy nauczyć się od firm pracujących w pełni zdalnie? Komunikacji i jej transporentności, a także metod wspólnego uczenia się. Przyjrzyjmy się technice nazywanej journalingiem.
 ---
 

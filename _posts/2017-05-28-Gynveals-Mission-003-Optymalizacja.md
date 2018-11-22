@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Gynveal's Mission 003&#58; Optymalizacja
-image: /assets/2017_05_28_header.jpg
+image: /assets/20170528_header.jpg
 ---
 
 # Wystarczy poczekać

@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Komunikacja i język w zespole
-image: /assets/2017_10_12_header.jpg
+image: /assets/20171012_header.jpg
 
 ---
 

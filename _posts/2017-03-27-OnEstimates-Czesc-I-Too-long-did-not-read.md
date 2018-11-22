@@ -1,6 +1,7 @@
 ---
+layout: post
 title: OnEstimates. Część I&#58; Too long, did not read
-image: /assets/2017_03_27_header.jpg
+image: /assets/20170327_header.jpg
 ---
 
 Przewidywanie przeszłości

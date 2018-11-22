@@ -19,15 +19,16 @@ title:              "Rafal Makara - Blog"
 description:        "Blog o wytwarzaniu oprogramowania z punktu widzenia zarówno programisty, jak i managera. Jeżeli jesteś zainteresowany tworzeniem oprogrmaowania z uwzględnieniem obydwu tych perspektyw to ten blog jest dla Ciebie."
 author_name:        "Rafał Makara"
 logo_url:           https://avatars0.githubusercontent.com/u/1880231?v=4
-twitter_username: rafalmakara
-github_username:  rmakara
+twitter_username:   rafalmakara
+github_username:    rmakara
 
 # Site Settings
-url:                https://rmakara.github.io 
+url:                https://rmakara.github.io
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Europe/Warsaw # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+mathjax:            false  # enables support for mathjax - set to 'false' to disable
+repository:         rmakara/rmakara.github.io
 
 # Site Build
 highlighter:        rouge
@@ -46,7 +47,6 @@ plugins:
   - jekyll-remote-theme  
 
 remote_theme: heiswayi/the-plain
-
 
 defaults:
   -

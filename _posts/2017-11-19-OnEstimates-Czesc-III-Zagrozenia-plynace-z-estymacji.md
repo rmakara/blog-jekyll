@@ -1,6 +1,7 @@
 ---
+layout: post
 title: OnEstimates. Część III&#58; Zagrożenia płynące z estymacji
-image: /assets/2017_11_19_header.jpg
+image: /assets/20171119_header.jpg
 ---
 
 # Każdy kij ma dwa końce
