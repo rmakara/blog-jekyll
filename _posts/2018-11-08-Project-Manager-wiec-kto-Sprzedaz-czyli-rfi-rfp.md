@@ -130,3 +130,5 @@ Podcasty to świetna rozrywka podczas chodzenia po mieście, jazdy autobusem czy
 * \[8\] [Kubernetes](https://kubernetes.io/)
 * \[9\] [Event Sourcing, Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
 * \[10\] [Time & materials, Wikipedia](https://en.wikipedia.org/wiki/Time_and_materials)
+
+Dalej chcesz zostać PMem? Jeżeli tak, to zachęcam do przeczytania trzeciego artykułu [Project Manager, więc kto? Analityka, czyli definiowanie zakresu projektu](https://rmakara.github.io/Project-Manager-wiec-kto-Analityka-czyli-definiowanie-zakresu-projektu).
