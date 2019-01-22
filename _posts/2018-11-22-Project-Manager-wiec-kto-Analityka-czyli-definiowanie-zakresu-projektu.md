@@ -37,7 +37,7 @@ Jeżeli naszym celem byłoby wdrożenie systemu magazynowego o którym wspominal
 
 # The worst thing you can do
 
-W roli project managera tak naprawdę nie musimy brać udziału w definiowaniu zakresu projektu. Mamy uprawnienia do delegowania, bo na tym polega nasza rola. Możemy otrzymać zakres projektu od sprzedawców i go po prostu zacząć robić. Możemy poprosić analityka, aby przeanalizował sytuację i przygotował zakres, a my go po prostu zaczniemy realizować. Jest to idealna droga do poniesienia porażki w ramach zarządzania takim projektem... droga, którą kiedyś zdarzyło mi podążać.
+W roli project managera tak naprawdę nie musimy brać udziału w definiowaniu zakresu projektu. Mamy uprawnienia do delegowania, bo na tym polega nasza rola. Możemy otrzymać zakres projektu od sprzedawców i go po prostu zacząć robić. Możemy poprosić analityka, aby przeanalizował sytuację i przygotował zakres, a my go po prostu zaczniemy realizować. Jest to idealna droga do poniesienia porażki w ramach zarządzania takim projektem... droga, którą kiedyś zdarzyło mi się podążać.
 
 Jak można kontrolować projekt w ramach którego znamy tylko cel, ale nie wiemy jak go osiągnąć? W przeszłości współpracowałem z project managerami po stronie klientów, których zarządzanie opierało się na przeczytaniu listy kamieni milowych oraz terminów ich osiągnięcia, ustawienia przypomnień w kalendarzu i wysyłania maili z zapytaniem "czy milestone został osiągnięty?" w dzień pokazania popupu przypominającego o terminie. Niezależnie od stanu faktycznego, wystarczyło napisać "jest ok", aby manager został zaspokojony.
 
