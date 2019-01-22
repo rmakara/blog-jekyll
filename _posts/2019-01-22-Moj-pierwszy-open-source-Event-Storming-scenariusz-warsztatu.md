@@ -19,7 +19,7 @@ Jeżeli jednak sam nie potrafię usiąść do kodowania, a chcę coś opublikow
 
 # Event Storming
 
-Jakiś czas temu przeprowadziłem warsztaty z event stormingu w dwóch firmach. W jednej były mega udane, w drugiej w miarę (mogłem to zrobić lepiej :p). W obydwu przypadkach posłużyłem się dość podobnym scenariuszem warsztatów. Dzielę się nim na swoim Githubie. Zawiera materiały dla zespołu developerskiego oraz wszechwiedzącego eksperta domenowego. Teksty zostały przygotowane w dwóch wersjach językowych - polskiej i angielskiej. Scenariusz dotyczy - wypożyczalni gier.
+Jakiś czas temu przeprowadziłem warsztaty z event stormingu w dwóch firmach. W jednej były mega udane, w drugiej w miarę (mogłem to zrobić lepiej :p). W obydwu przypadkach posłużyłem się dość podobnym scenariuszem warsztatów. Dzielę się nim na Githubie. Zawiera materiały dla zespołu developerskiego oraz wszechwiedzącego eksperta domenowego. Teksty zostały przygotowane w dwóch wersjach językowych - polskiej i angielskiej. Scenariusz dotyczy - wypożyczalni gier.
 
 # Do it!
 
