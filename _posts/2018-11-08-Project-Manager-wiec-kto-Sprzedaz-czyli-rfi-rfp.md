@@ -89,9 +89,9 @@ Efektem tego etapu jest propozycja rozwiązania wraz z wyceną.
 
 # Wycena
 
-Ale jak możemy wycenić projekt, który zajmie 1,5 roku skoro nie potrafimy nawet poprawnie wyestymować pojedynczego zadania w najbliższym sprincie? To trudne pytanie. Czasami programiści wyceniający tak długie projektu posiłkują się stwierdzeniem "wstępnych estymacji". W efekcie, klient otrzymuje "wstępną wycenę", która jest o 500% niższa od spalonego do realizacji projektu budżetu, zmierzonego na dzień zakończenia projektu.
+Ale jak możemy wycenić projekt, który zajmie 1,5 roku skoro nie potrafimy nawet poprawnie wyestymować pojedynczego zadania w najbliższym sprincie? To trudne pytanie. Czasami programiści wyceniający tak długie projekty posiłkują się stwierdzeniem "wstępnych estymacji". W efekcie, klient otrzymuje "wstępną wycenę", która jest kilkukrotnie niższa od spalonego do realizacji projektu budżetu, zmierzonego na dzień zakończenia projektu.
 
-Wykazując się odrobiną empatii można się domyślić, że takie sytuacje są niedopuszczalne i zdarza się, że kończą się procesami sądowymi. Składając ofertę klientowi, wyceniając projekt, musimy wykazać się naszymi najlepszymi umiejętnościami i doświadczeniem, aby zrobić to jak najbardziej precyzyjnie. Nawet gdy pracujemy w [time&materials](https://en.wikipedia.org/wiki/Time_and_materials) i przysługuje nam prawo do pobrania opłaty za wymienione powyżej 300% początkowej wyceny to naszym obowiązkiem jest minimalizowanie ryzyka przekroczenia budżetu o chociażby 1 zł.
+Wykazując się odrobiną empatii można się domyślić, że takie sytuacje są niedopuszczalne i zdarza się, że kończą się procesami sądowymi. Składając ofertę klientowi, wyceniając projekt, musimy wykazać się naszymi najlepszymi umiejętnościami i doświadczeniem, aby zrobić to jak najbardziej precyzyjnie. Nawet gdy pracujemy w [time&materials](https://en.wikipedia.org/wiki/Time_and_materials) i przysługuje nam prawo do pobrania opłaty za wymienione powyżej przekrocznie początkowej wyceny to naszym obowiązkiem jest minimalizowanie ryzyka przekroczenia budżetu o chociażby 1 zł.
 
 # Budowanie zaufania
 
