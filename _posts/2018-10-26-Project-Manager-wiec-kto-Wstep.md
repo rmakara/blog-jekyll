@@ -26,7 +26,7 @@ Seria artykułów będzie podzielona na konkretne zakresy aktywności project ma
 * [Project Manager, więc kto? Wstęp.](https://rmakara.github.io/Project-Manager-wiec-kto-Wstep)
 * [Project Manager, więc kto? Sprzedaż, czyli RFI, RFP](https://rmakara.github.io/Project-Manager-wiec-kto-Sprzedaz-czyli-rfi-rfp)
 * [Project Manager, więc kto? Analityka, czyli definiowanie zakresu projektu.](https://rmakara.github.io/Project-Manager-wiec-kto-Analityka-czyli-definiowanie-zakresu-projektu)
-* Project Manager, więc kto? Praca zespołu, czyli "Scrum".
+* [Project Manager, więc kto? Praca zespołu, czyli "Scrum"](https://rmakara.github.io//Project-Manager-wiec-kto-Praca-zespolu-czyli-Scrum).
 * Project Manager, więc kto? Zarządzanie projektami, czyli "Prince2".
 * Project Manager, więc kto? Liderowanie i szefowanie, czyli decyzje i feedback.
 * Project Manager, więc kto? Wspieranie firmy (organizacji), czyli spotkania.
