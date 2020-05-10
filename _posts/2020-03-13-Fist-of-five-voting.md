@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First of five voting - sposób na szybkie poznanie zdania innych
+title: Fist of five voting - Skala Likerta na palcach jednej ręki
 image: /assets/20200313_header.jpg
 description: W jaki sposób możemy szybko i efketywnie przeprowadzić głosowanie w grupie, gdy nie mamy pod ręką żadnego pisaka? Warto użyć palców.
 ---
@@ -39,6 +39,8 @@ Możemy jednak zrobić to w mniej standardowy sposób przy użyciu techniki znan
     * 5 palców - Zdecydowanie tak! Mogę poprowadzić ten temat.
 5. Albo podejmujemy decyzję, albo omawiamy i ponownie głosujemy, albo przekładamy podjęcie decyzji na inny termin.
 
+Czy nie wygląda to podobnie do [Skali Likerta](https://pl.wikipedia.org/wiki/Skala_Likerta)?
+
 # Kiedy to nie zadziała?
 
 Na przykład wtedy kiedy mamy wiele opcji do wyboru. W takiej sytuacji lepiej skorzystać z metody znanej jako dot-voting.
@@ -65,3 +67,4 @@ Być może można przenieść to w jakiś sposób na fist of five voting?
 # Więcej informacji
 
 * \[1\] [Fist of five @ Google Images](https://www.google.com/search?q=fist+of+five+voting&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiE-8DCpZroAhVMw4sKHdZzBpcQ_AUoAXoECA4QAw)
+* \[2\] [Skala Likerta, Wikipedia](https://pl.wikipedia.org/wiki/Skala_Likerta)

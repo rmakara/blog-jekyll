@@ -3,7 +3,7 @@ layout: page
 title: O mnie
 ---
 
-Mam na imię Rafał i od ponad trzech lat pracuję na miękkich stanowiskach w świecie software developmentu. W przeszłości przez 6 lat zarabiałem na życie - programując.
+Mam na imię Rafał i od ponad czterech lat pracuję na miękkich stanowiskach w świecie software developmentu. W przeszłości przez 6 lat zarabiałem na życie - programując.
 
 Pierwsze kroki, które doprowadziły mnie do pracy przy rozwoju oprogramowania, stawiałem w roku 2003, gdy HexEditorem modyfikowałem pamięć w celu zwiększenia umiejętności swojej postaci w Diablo 2. Następnie nastały czasy takich technologii i narzędzi jak Webmajster 2.0, Macromedia Flash MX oraz mIRC Scripting. Ten ostatni, w latach 2005-2006 umożliwił mi stworzenie bota wykorzystywanego przez ponad 1000 osób do tworzenia tymczasowych zespołów do gry przeciwko klanom w grze Wolfenstein: Enemy Territory. Bot został stworzony pod szyldem współzałożonego przeze mnie kanału IRC organizującego turnieje gier online (200+ uczestników największego), gdzie występowałem pod pseudonimem RaVeN (eSports.pl: [Mercowa rewolucja!](http://www.esports.pl/news/mercowa-rewolucja/11533/strona/1/kom), [2v2 xMasCup - zakończony!](http://www.esports.pl/news/2v2-xmascup---zakonczony/11893/strona/1/kom), [#merc.pl 1o1 MultiGaming CUP](http://www.esports.pl/news/mercpl-1o1-multigaming-cup/12559/strona/1/kom)). Udało się to gdy miałem 15 lat, bo nie wiedziałem, że to może być trudne. Dzisiaj - 15 lat później - bym nie potrafił. :)
 
