@@ -2,10 +2,10 @@
 
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = 'about' %}
-		{% assign prompt = 'O mnie' %}
+		{% assign prompt = 'About me' %}
 	{% else %}
 		{% assign link = '/' %}
-		{% assign prompt = 'Wróć na Stronę Główną' %}
+		{% assign prompt = 'Back to Articles' %}
 	{% endif %}
 
 	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
@@ -16,6 +16,7 @@
 </aside>
 
 	<p class="menu">
-		<a href="/">Strona Główna</a> |
-		<a href="/about">O mnie</a>
+		<a href="/">Articles</a> |
+		<a href="/about">About me</a>
+		<a href="https://www.linkedin.com/in/rafalmakara/">LinkedIn Profile</a>
 	</p>
