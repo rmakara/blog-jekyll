@@ -3,6 +3,7 @@ layout: post
 title: Mój pierwszy open source - Event Storming, scenariusz warsztatu
 image: /assets/20190122_header.jpg
 description: Chcesz przeprowadzić w firmie warsztat z event stormingu, a nie masz pomysłu na scenariusz? Udostępniam!
+article_language: pl
 ---
 
 # Zmiany

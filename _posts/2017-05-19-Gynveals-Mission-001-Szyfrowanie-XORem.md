@@ -2,6 +2,7 @@
 layout: post
 title: Gynveal's Mission 001&#58; Szyfrowanie XORem
 image: /assets/20170519_header.jpg
+article_language: pl
 ---
 
 # Misje Gynvaela Coldwinda

@@ -3,6 +3,7 @@
 title: Being non-billable
 image: /assets/20200519_header.jpg
 description: There is a legendary space in a software house. Some people call it internal projects, internals, or non-billable projects. Is it a penalty?
+article_language: en
 ---
 
 # How software houses make money?

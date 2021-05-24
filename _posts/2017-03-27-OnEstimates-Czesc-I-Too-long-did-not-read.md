@@ -2,6 +2,7 @@
 layout: post
 title: OnEstimates. Część I&#58; Too long, did not read
 image: /assets/20170327_header.jpg
+article_language: pl
 ---
 
 Przewidywanie przeszłości

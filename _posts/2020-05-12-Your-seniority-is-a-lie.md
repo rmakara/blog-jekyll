@@ -3,6 +3,7 @@
 title: Your seniority is a lie
 image: /assets/20200512_header.jpg
 description: There has always been a rush towards getting top edge seniority levels such as senior, principal, architect, or so. The thing that destroys our industry is everywhere around and inside us. How we can improve it by not being 'senior' anymore?
+article_language: en
 ---
 
 # Seniority formula

@@ -2,6 +2,7 @@
 layout: post
 title: Jira & Toggl. Jak uspójnić formę raportowania?
 image: /assets/20170308_header.jpg
+article_language: pl
 ---
 
 # Projekt i początkowe założenia

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: EN Articles
+title: PL Articles
 ---
 
 <section>
 
+	<h3 class="code">2020</h3>
 	{% for post in site.posts %}
-		{% if post.article_language == "en" %}	
+		{% if post.article_language == "pl" %}	
 			{% unless post.next %}
 				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
 			{% else %}
@@ -16,8 +17,7 @@ title: EN Articles
 					<h3 class="code">{{ post.date | date: '%Y' }}</h3>
 				{% endif %}
 			{% endunless %}
-
-			
+	
 			<ul>
 				<li>
 					<div class="post-date code">

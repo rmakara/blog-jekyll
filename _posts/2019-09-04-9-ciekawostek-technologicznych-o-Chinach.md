@@ -3,6 +3,7 @@ layout: post
 title: 9 Ciekawostek Technologicznych o Chinach
 image: /assets/20190904_header.jpg
 description: Po spędzeniu tygodnia w Chinach naszła mnie fala przemyśleń o tym jak trudne byłoby wejście w ten świat w zakresie software developmentu. W artykule znajdziesz 8 ciekawostek, które mogą rzucić inne światło na rozumienie technologii dostępnej dla mas.
+article_language: pl
 ---
 
 # Delegacja

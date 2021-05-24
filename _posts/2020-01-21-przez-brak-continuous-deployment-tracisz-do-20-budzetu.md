@@ -3,6 +3,7 @@ layout: post
 title: Przez brak continuous deployment tracisz do 20% budżetu. Wyjaśnienie dla Project Managera
 image: /assets/20200121_header.jpg
 description: Jak techniki programistyczne przekładają się na benefity, które mogą być zauważone z perspektywy project managerów? Dzisiaj o continuous delivery i deployment.
+article_language: pl
 ---
 
 # Jak być najszybszym?

@@ -3,6 +3,7 @@ layout: post
 title: Is your feedback meeting about money? Wyniki ankiety, część I
 image: /assets/20191125_header.jpg
 description: W ostatnim czasie zastanawiałem się nad tym jak wyglądają spotkania feedbackowe w różnych firmach. W załaczeniu możesz znaleźć wyniki ankiety do Twojej własnej interpretacji.
+article_language: pl
 ---
 
 # Historia

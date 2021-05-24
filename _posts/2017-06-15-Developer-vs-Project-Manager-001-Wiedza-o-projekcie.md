@@ -2,6 +2,7 @@
 layout: post
 title: Developer vs Project Manager 001&#58; Wiedza o projekcie
 image: /assets/20170615_header.jpg
+article_language: pl
 ---
 
 > Disclaimer: W serii Developer vs Project Manager opisuję kontrasty dla granicznych położeń tych ról. Zachowuję świadomość istnienia specjalistów posiadających wiele kompetencji miękkich oraz managerów posługujących się niskopoziomową wiedzą techniczną - te grupy świadomie pomijam.

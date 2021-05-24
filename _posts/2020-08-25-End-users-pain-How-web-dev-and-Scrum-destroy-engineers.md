@@ -3,6 +3,7 @@ layout: post
 title: End-users' pain. How web dev and Scrum destroy engineers.
 image: /assets/20200825_header.jpg
 description: My story, on how emotions helped me to be a little bit better engineer. What can we do to bring some of the end-users' pain to our daily life? Is it worth it?
+article_language: en
 ---
 
 # My career's childhood

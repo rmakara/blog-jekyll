@@ -2,7 +2,7 @@
 layout: post
 title: Komunikacja i język w zespole
 image: /assets/20171012_header.jpg
-
+article_language: pl
 ---
 
 # Programowanie pracą zespołową

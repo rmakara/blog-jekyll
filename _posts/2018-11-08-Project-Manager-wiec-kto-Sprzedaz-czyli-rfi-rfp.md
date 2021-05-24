@@ -3,6 +3,7 @@ layout: post
 title: Project Manager, więc kto? Sprzedaż, czyli RFI, RFP
 image: /assets/20181108_header.jpg
 description: Zadania wykonywane przez managerów w firmach IT nie są w pełni transparentne dla zespołów developerskich. Co robią project managerowie? Wyjaśnijmy! W dzisiejszym artykule opisujemy zaangażowanie project managera w proces sprzedażowy.	
+article_language: pl
 ---
 
 > Jest to drugi artykuł z cyklu _Project Manager, więc kto._, jeżeli nie czytałeś/aś od początku to zachęcam do przejścia na stronę [Project Manager, więc kto? Wstęp](https://rmakara.github.io/Project-Manager-wiec-kto-Wstep).

@@ -2,6 +2,7 @@
 layout: post
 title: Gynveal's Mission 003&#58; Optymalizacja
 image: /assets/20170528_header.jpg
+article_language: pl
 ---
 
 # Wystarczy poczekać

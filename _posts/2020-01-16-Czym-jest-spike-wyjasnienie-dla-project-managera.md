@@ -3,6 +3,7 @@ layout: post
 title: Czym jest SPIKE? Wyjaśnienie dla Project Managera
 image: /assets/20200116_header.jpg
 description: Jakie benefity może osiągnąć zespół developerski oraz project manager przez korzystanie ze spajków? 
+article_language: pl
 ---
 
 # Wina analityków

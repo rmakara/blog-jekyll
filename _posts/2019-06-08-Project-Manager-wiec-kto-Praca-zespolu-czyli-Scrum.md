@@ -3,6 +3,7 @@ layout: post
 title: Project Manager, więc kto? Praca zespołu, czyli &#34;Scrum&#34;
 image: /assets/20190608_header.jpg
 description: Zadania wykonywane przez managerów w firmach IT nie są w pełni transparentne dla zespołów developerskich. Co robią project managerowie? Wyjaśnijmy! W dzisiejszym artykule opisujemy zaangażowanie project managera w codzienną pracę zespołu.	
+article_language: pl
 ---
 
 > Jest to czwarty artykuł z cyklu _Project Manager, więc kto._, jeżeli nie czytałeś/aś od początku to zachęcam do przejścia na stronę [Project Manager, więc kto? Wstęp](https://rmakara.github.io/Project-Manager-wiec-kto-Wstep).

@@ -3,6 +3,7 @@ layout: post
 title: Varnish Cache dla miękkich form inteligencji
 image: /assets/20180129_header.jpg
 description: W dobie gdy wszyscy stają się ludźmi Pi, a product engineering zyskuje na popularności ponad software development manadżerowie są zmuszeni rozumieć aspekty techniczne wytwarzanych rozwiązań. Czym są warstwy cachujące oraz reverse proxy? W ludzkich słowach przybliżam temat.
+article_language: pl
 ---
 
 # Wdrożenie z miękkiej perspektywy

@@ -3,6 +3,7 @@ layout: post
 title: 24 praktyki "high performerów" z książki Accelerate
 image: /assets/20200128_header.jpg
 description: Książka Accelerate podsumowuje dane zebrane w ramach 4-letniego badania State of DevOps. Wyłania 24 praktyki, które powinny być tabliczką mnożenia dla każdej osoby tworzącej oprogramowanie w 2020 roku. 
+article_language: pl
 ---
 
 # Accelerate

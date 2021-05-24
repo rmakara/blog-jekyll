@@ -3,6 +3,7 @@ layout: post
 title: Fist of five voting - Skala Likerta na palcach jednej ręki
 image: /assets/20200313_header.jpg
 description: W jaki sposób możemy szybko i efketywnie przeprowadzić głosowanie w grupie, gdy nie mamy pod ręką żadnego pisaka? Warto użyć palców.
+article_language: pl
 ---
 
 # Problem

@@ -3,6 +3,7 @@ layout: post
 title: Project Manager, więc kto? Wstęp
 image: /assets/20181026_header.jpg
 description: Zadania wykonywane przez managerów w firmach IT nie są w pełni transparentne dla zespołów developerskich. Co robią project managerowie? Wyjaśnijmy!	
+article_language: pl
 ---
 
 # Warto robić backupy

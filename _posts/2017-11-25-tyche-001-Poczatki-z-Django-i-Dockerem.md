@@ -2,6 +2,7 @@
 layout: post
 title: tyche 001&#58; Początki z Django i Dockerem
 image: /assets/20171125_header.jpg
+article_language: pl
 ---
 
 # Programista stażysta

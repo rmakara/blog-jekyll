@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O mnie
+title: About me
 ---
 
 Mam na imię Rafał i od ponad czterech lat pracuję na miękkich stanowiskach w świecie software developmentu. W przeszłości przez 6 lat zarabiałem na życie - programując.

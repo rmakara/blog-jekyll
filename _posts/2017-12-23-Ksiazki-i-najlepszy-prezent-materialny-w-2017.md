@@ -2,6 +2,7 @@
 layout: post
 title: Książki i najlepszy prezent materialny w 2017
 image: /assets/20171223_header.jpg
+article_language: pl
 ---
 
 # Powrót do czytania

@@ -3,6 +3,7 @@ layout: post
 title: Event Storming&#58; Warsztaty Agile Wrocław
 image: /assets/20180410_header.jpg
 description: Relacja z warsztatów Product Craftsmanship - Agile Wrocław poświęconych metodzie Event Storming. Prowadzenie&58; Mariusz Gil i Krzysztof Menżyk.
+article_language: pl
 ---
 
 # Powrót do warsztatów

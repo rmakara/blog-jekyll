@@ -2,6 +2,7 @@
 layout: post
 title: Ohayō, czyli wstęp do pisania o granicy dwóch światów
 image: /assets/20170301_header.jpg
+article_language: pl
 ---
 
 # Daj się poznać 2017
