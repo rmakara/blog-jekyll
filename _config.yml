@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 ---
 # Site Info
-title:              "Rafal Makara - Blog"
-description:        "Blog o wytwarzaniu oprogramowania z punktu widzenia zarówno programisty, jak i managera. Jeżeli jesteś zainteresowany tworzeniem oprogrmaowania z uwzględnieniem obydwu tych perspektyw to ten blog jest dla Ciebie."
+title:              "Rafal Makara"
+description:        "Hi! I am Rafal and I am a generalist. I was an software engineer, project manager, product owner, scrum master, chief digital officer. I know about people, collaboration, project management, software development and business operations."
 author_name:        "Rafal Makara"
 logo_url:           https://avatars0.githubusercontent.com/u/1880231?v=4
 twitter_username:   rafalmakara
@@ -25,7 +25,7 @@ github_username:    rmakara
 # Site Settings
 url:                https://rmakara.github.io
 baseurl:            /
-permalink:          /:title # Post permalink
+permalink:          :title # Post permalink
 timezone:           Europe/Warsaw # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            false  # enables support for mathjax - set to 'false' to disable
 repository:         rmakara/rmakara.github.io
