@@ -1,0 +1,24 @@
+<aside class="logo">
+
+	{% if page.url == '/index.html' or page.url == '/' %}
+		{% assign link = 'about' %}
+		{% assign prompt = 'About me' %}
+	{% else %}
+		{% assign link = '/' %}
+		{% assign prompt = 'Back to Home' %}
+	{% endif %}
+
+	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
+		<img src="{{ site.logo_url }}" class="logo-avatar">
+	</a>
+	<span class="logo-prompt code">{{ prompt }}</span>
+</aside>
+
+<p class="menu">	
+	<a href="/">EN Articles</a> |
+	<a href="/pl">PL Articles</a> <br />
+	<a href="/about">About me</a> |
+	<a href="/help">How can I help?</a>	|
+	<a href="https://www.linkedin.com/in/rafalmakara/">My LinkedIn Profile</a>
+	
+</p>
