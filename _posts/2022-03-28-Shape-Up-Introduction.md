@@ -27,7 +27,10 @@ ToC below is my current understanding of what I want to cover. It may change ove
 1. [Introduction](http://rmakara.github.io/Shape-Up-Introduction)
 2. [When not to follow the book](http://rmakara.github.io/Shape-Up-When-not-to-follow-the-book)
 3. [Shaping vs Building](https://rmakara.github.io/Shape-Up-Shaping-vs-Building)
-4. Building:
+4. [Who does the Shaping?](https://rmakara.github.io/Shape-Up-Who-does-the-Shaping)
+5. [Are Pitches the problems to solve?](https://rmakara.github.io/Shape-Up-Are-Pitches-The-Problems-To-Solve)
+6. [Before Shaping there is a Chaos](https://rmakara.github.io/Shape-Up-Before-Shaping-there-is-a-Chaos)
+7. Building:
     1. Project kickoff
     2. Roles in the team
     3. Planning the execution
@@ -37,21 +40,21 @@ ToC below is my current understanding of what I want to cover. It may change ove
     7. Monitoring the progress
     8. Release models
     9. Project closure
-5. Cooldown:
+8. Cooldown:
     1. Finishing projects during the cooldown
     2. Transparency and what to do
-6. Structure:
+9. Structure:
     1. Length and the first day of the cycle
     2. Async, sync, written, verbal
     3. Supporting your users
     4. Reporting to the board/stakeholders 
     5. Composition of the teams
-7. Shaping:
+10. Shaping:
     1. Modern product discovery
     2. Strategy and road mapping
     3. Big projects
     4. Not everything is a Shape Up project
-8. Shape Up at scale and the program management
+11. Shape Up at scale and the program management
 
 ## Credits
 

@@ -6,7 +6,7 @@ description: Shape Up is a product development methodology popularized thanks to
 article_language: en
 ---
 
-> It is the 3rd article in the Shape Up series. For Table of Contents go to: [Shape Up, Introduction](https://rmakara.github.io/Shape-Up-Introduction)
+> It is one of the articles in the Shape Up series. For Table of Contents go to: [Shape Up, Introduction](https://rmakara.github.io/Shape-Up-Introduction)
 
 ## Same shit, different naming
 
@@ -35,7 +35,7 @@ It is worth keeping the Shaping & Building naming convention for Shape Up. It wi
 
 When you start implementing the Shape Up, you need to understand the current state of Shaping and Building within' your organization.
 
-In most companies, the whole Shaping process happens before something goes into Jira. Most engineers have no idea where the stories are coming from. If you want to learn how to visualize these stages, I encourage you to watch [Upstream Kanban by Radoslaw Orszewski](https://www.youtube.com/watch?v=wmaDppWNBJc).
+In most companies, the whole Shaping process happens before something goes into Jira. Most engineers have no idea where the stories are coming from. If you want to learn how to visualize these stages, I encourage you to watch [Upstream Kanban by Radoslaw Orszewski](https://www.youtube.com/watch?v=wmaDppWNBJc) or review a few images presenting the [Double Diamong method](https://www.google.com/search?q=double+diamond).
 
 In Shape Up, we want to raise awareness of the existence of the left-hand-side-phases. To do that, it is worth separating Shaping and Building explicitly. This is the moment to let everyone know what these phrases mean and what they will look like.
 

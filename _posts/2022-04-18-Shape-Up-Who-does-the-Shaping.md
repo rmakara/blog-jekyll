@@ -6,14 +6,13 @@ description: Shape Up is a product development methodology popularized thanks to
 article_language: en
 ---
 
-> It is the 4th article in the Shape Up series. For Table of Contents go to: [Shape Up, Introduction](https://rmakara.github.io/Shape-Up-Introduction)
-
+> It is one of the articles in the Shape Up series. For Table of Contents go to: [Shape Up, Introduction](https://rmakara.github.io/Shape-Up-Introduction)
 
 ## Who does the Shaping?
 
 The most common question for the Shaping phase is who does the Shaping. Basecamp answers this question in [Who Shapes](https://basecamp.com/shapeup/1.1-chapter-02#who-shapes) chapter of the book. 
 
-The conclusion that we may see is to involve someone aware of the design, business, and technicals. It usually leads to building a team who can collaborate to create the following pitches. There should also be someone empowered to set the concrete level of investment (Appetite) for specific Shape/Pitch.
+The conclusion that we may see is to involve someone aware of the design, business, and technicals. It usually leads to building a team who can collaborate to create the following pitches. There should also be someone empowered to set the concrete level of investment (Appetite).
 
 From my perspective, the composition of the Shapers may differ. Here's how.
 
@@ -79,4 +78,4 @@ Soon, we will focus more on the project roles and responsibilities.
 
 For now, keep in mind that Shape Up is not meant to be a waterfall process. People who wrote the Pitch need to be involved during the Building phase to support Builders with knowledge and feedback.
 
-The following article will discuss [what the Pitches/Shapes define](#). Are these about the legendary _"problems to solve"_? 
+The following article will discuss [how concrete the Pitches should be](https://rmakara.github.io/Shape-Up-Are-Shapes-The-Problems-To-Solve). 
