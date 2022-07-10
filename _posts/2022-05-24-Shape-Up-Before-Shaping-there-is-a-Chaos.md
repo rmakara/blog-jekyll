@@ -78,4 +78,4 @@ Once we are done with all the considerations and gathering the data - we can pro
 
 Now, our job is to take this Chaos, work on it, and by Shaping, convert it into a Pitch.
 
-In the next article, finally, we will jump into the Building phase.
+In the next article, finally, we will jump into the [Building phase](https://rmakara.github.io/Shape-Up-Building-when-pitches-get-converted-into-projects).

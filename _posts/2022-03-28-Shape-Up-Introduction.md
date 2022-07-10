@@ -30,9 +30,9 @@ ToC below is my current understanding of what I want to cover. It may change ove
 4. [Who does the Shaping?](https://rmakara.github.io/Shape-Up-Who-does-the-Shaping)
 5. [Are Pitches the problems to solve?](https://rmakara.github.io/Shape-Up-Are-Pitches-The-Problems-To-Solve)
 6. [Before Shaping there is a Chaos](https://rmakara.github.io/Shape-Up-Before-Shaping-there-is-a-Chaos)
-7. Building:
-    1. Project kickoff
-    2. Roles in the team
+7. [Building, when Pitches get converted into Projects:](https://rmakara.github.io/Shape-Up-Building-when-pitches-get-converted-into-projects)
+    1. [Project kickoff](https://rmakara.github.io/Shape-Up-How-to-do-a-Project-Kickoff)
+    2. [Project Leadership and Project Roles](https://rmakara.github.io/Shape-Up-Project-Leadership-and-Project-Roles)
     3. Planning the execution
     4. Respecting people's strengths
     5. Focusing on feedback and early testing
@@ -63,5 +63,6 @@ The series consists of my thoughts on the topic and my past experiences. However
 * Thank you, [Surfer SEO Team](https://surferseo.com/), for the environment, your support and ideas in playing around with various methods within Shape Up. 
 * Thank you, [Lucjan Suski](https://www.linkedin.com/in/lucjansuski), for coming up with the idea for Shape Up's implementation at Surfer.
 * Thank you, [Ryan Singer](https://www.linkedin.com/in/ryan-singer-9941592b), for sharing writing the book and making the next big step in closing the gap between discovery and delivery.
+* And all the people who taught me to use the common sense in the agile world.
 
 __Disclaimer:__ This is a series of my thoughts. People mentioned above may have different opinions on this topic. They most likely disagree with me in many cases, just as I agree and disagree with them.
